@@ -2,12 +2,19 @@
 Different calcluator for roofing contractor :
 
 Roof Width Calculator - https://zapierautomationagency.com/roof-width-calculator
+
 Metal Roof Panel Length Calculator - https://zapierautomationagency.com/metal-roof-panel-length-calculator
+
 Shed Roof Slope Calculator - https://zapierautomationagency.com/shed-roof-slope-calculator
+
 Roof Slope Calculator - https://zapierautomationagency.com/roof-slope-calculator
+
 Roof Pitch Degree Calculator - https://zapierautomationagency.com/roof-pitch-degree-calculator
+
 Shed Roof Rafter Span Calculator - https://zapierautomationagency.com/shed-roof-rafter-span-calculator
+
 Roof Rise Run Calculator - https://zapierautomationagency.com/roof-rise-run-calculator
+
 All created by Zapier agency - https://zapierautomationagency.com/
 
 <!--
